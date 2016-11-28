@@ -1,4 +1,9 @@
-./nbproject
-./exec
-./build
-./dist
+./nbproject/*
+./exec/*
+./build/*
+./dist/*
+./nbproject/
+./exec/
+./build/
+./dist/
+
