@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Specification-Version: "1.8"
+Main-class: JavaCrush
+
+

@@ -1,0 +1,7 @@
+Java 1.8 required for running JavaCrush.jar
+compiling classes:
+	cd exec && jar -cmf ../manifest.mf ../JavaCrush.jar  ./ && cd ../
+usage: 
+	java -jar JavaCrush.jar <number of case [case*case]>
+
+javadoc into ./dist/javadoc/index.html
